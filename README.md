@@ -3,6 +3,7 @@ Welcome to the Medical Form Submission Platform! This full-stack application all
 
 🎥 Video Explanation
 Watch the detailed explanation of the project here. (Replace # with the video link once available.)
+![Screenshot](https://github.com/ARMAN8910/Oralens-LLC-Assignment-FrontEnd/blob/ded9a7dc5edaca7f336d2235e89560fb21000ccd/Screen%20Recording%202024-11-20%20013115%20-%20Trim.mp4)
 
 🚀 Features
 Form Submission: Users can fill out a form with their Name, Age, and upload a medical file.
