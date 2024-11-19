@@ -4,7 +4,7 @@ Welcome to the Medical Form Submission Platform! This full-stack application all
 🎥 Video Explanation
 Watch the detailed explanation of the project here.
 
-[Watch the Demo Video](https://github.com/ARMAN8910/Oralens-LLC-Assignment-FrontEnd/blob/bb32453c8a22c7fd94b4384d5285d3c0f5113edb/Screen%20Recording%202024-11-20%20013115%20-%20Trim.mp4)
+[Watch the Demo Video](https://drive.google.com/file/d/1x1Mx_BnOusDa875OR8bdUOqV1XwqqBIe/view?usp=sharing)
 
 
 🚀 Features
