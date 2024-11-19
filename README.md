@@ -19,6 +19,7 @@ Node.js: Handles server-side logic and API requests.
 Database
 MongoDB: Efficiently stores user data and medical files.
 💻 How It Works
+
 Frontend
 Users fill out a form to submit their details and upload a medical file.
 ReactJS ensures a responsive and dynamic user experience across devices.
@@ -28,7 +29,16 @@ Database
 MongoDB stores user information and uploaded files securely.
 Provides seamless file retrieval for display on the frontend when requested.
 📸 Screenshots
-(Add relevant screenshots below)
+
+![Screenshot](https://github.com/ARMAN8910/Oralens-LLC-Assignment-FrontEnd/blob/afd933569140ac2b4764ab9979e74165ee7e907c/p1.png)
+
+![Screenshot](https://github.com/ARMAN8910/Oralens-LLC-Assignment-FrontEnd/blob/afd933569140ac2b4764ab9979e74165ee7e907c/p2%20(2).png)
+
+![Screenshot](https://github.com/ARMAN8910/Oralens-LLC-Assignment-FrontEnd/blob/afd933569140ac2b4764ab9979e74165ee7e907c/p3%20(2).png)
+
+![Screenshot](https://github.com/ARMAN8910/Oralens-LLC-Assignment-FrontEnd/blob/afd933569140ac2b4764ab9979e74165ee7e907c/p4%20(2).png)
+
+![Screenshot](https://github.com/ARMAN8910/Oralens-LLC-Assignment-FrontEnd/blob/afd933569140ac2b4764ab9979e74165ee7e907c/p5.png)
 
 Form Page Screenshot
 Uploaded Data Display Screenshot
